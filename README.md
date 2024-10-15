@@ -1,4 +1,4 @@
-# Resolution Calculator
+# NovaStar Resolution Calculator
 
 A simple GUI application for calculating resolutions for various NovaStar sending cards.
 
@@ -17,13 +17,6 @@ This application provides a user-friendly interface for calculating resolutions 
 
 * Go programming language (version 1.14 or later)
 * Fyne GUI library (version 2.0 or later)
-
-## Installation
-
-1. Clone the repository: `git clone https://github.com/your-username/resolution-calculator.git`
-2. Install the required dependencies: `go get -u fyne.io/fyne/v2`
-3. Build the application: `go build main.go`
-4. Run the application: `./main`
 
 ## Usage
 
